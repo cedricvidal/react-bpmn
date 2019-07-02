@@ -10,6 +10,7 @@ An example how to use [react-bpmn](../) to display a BPMN 2.0 diagram in a React
 To run the example:
 
 ```
+(cd .. && npm run bundle) # to build the lib
 npm install
 npm start
 ```
